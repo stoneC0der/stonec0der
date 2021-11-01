@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stonec0der&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonec0der&hide=blade,css&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonec0der&hide=blade,css,python&layout=compact&theme=dark" />
 </a>
 
 - ⚡ Fun fact: man never sleep 🥱.
