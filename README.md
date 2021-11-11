@@ -5,6 +5,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonec0der&hide=blade,css&layout=compact&theme=dark" />
 </a>
 
+<br />
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- 
+![Profile View Counter](https://komarev.com/ghpvc/?username=stonec0der)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/stonec0der/Python) -->
+
 - ⚡ Fun fact: man never sleep 🥱.
 <!--
 **stoneC0der/stonec0der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
