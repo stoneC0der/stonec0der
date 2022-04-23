@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://app.daily.dev/stonec0der">
-  <img src="https://api.daily.dev/devcards/e37fef55cbfb474faf4a7c5ddeac275c.png?r=hef" width="300" alt="Cedric Megnie's Dev Card" align="right"/>
+  <img src="https://github.com/stoneC0der/stonec0der/blob/master/devcard.svg" width="300" alt="Cedric Megnie's Dev Card" align="right"/>
 </a>
 </div>
       
@@ -21,6 +21,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=stonec0der)
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/stonec0der/Python) -->
+
+###
 
 - ⚡ Fun fact: man never sleep 🥱.
 <!--
