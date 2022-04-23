@@ -1,14 +1,20 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stonec0der&count_private=true&show_icons=true&theme=dark" />
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=stonec0der&count_private=true&show_icons=true&theme=dark" />
 </a>
 
+<a href="https://app.daily.dev/stonec0der">
+  <img src="https://api.daily.dev/devcards/e37fef55cbfb474faf4a7c5ddeac275c.png?r=hef" width="300" alt="Cedric Megnie's Dev Card" align="right"/>
+</a>
+</div>
+      
 ###
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonec0der&hide=blade,css&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonec0der&hide=blade,css&layout=compact&theme=dark" />
 </a>
 
-####
+###
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!-- 
