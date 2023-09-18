@@ -1,5 +1,3 @@
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=stonec0der)
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=stonec0der&theme=gruvbox">
 </div>
@@ -16,5 +14,10 @@
     <img src="https://github.com/stoneC0der/stonec0der/blob/master/devcard.svg" width="300" alt="Cedric Megnie's Dev Card" align="left"/>
   </a>
   
-![Jokes Card](https://readme-jokes.vercel.app/api)<br />
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br />
+![Profile View Counter](https://komarev.com/ghpvc/?username=stonec0der)
+<br>
+[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19060%26project%3D%26in%3D0)](https://codetime.dev)
+<br />
 ⚡ Fun fact: man never sleep 🥱.
