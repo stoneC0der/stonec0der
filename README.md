@@ -1,3 +1,8 @@
+# Hi, I am Cedric Megnie N.
+Welcome to Github Profile.
+<div>
+  <img width="100%" height="500px" src="https://github.com/stoneC0der/stonec0der/assets/11365636/b8d7162b-c9c8-43ad-8a2c-6889fe9570f4" algin="right">
+</div>
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=stonec0der&theme=gruvbox">
 </div>
