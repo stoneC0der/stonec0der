@@ -10,6 +10,9 @@
       
 ###
 
+<div>
+  https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
+</div>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonec0der&hide=blade,css&layout=compact&theme=dark" />
 </a>
