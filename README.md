@@ -1,44 +1,20 @@
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=stonec0der&count_private=true&show_icons=true&theme=dark" />
-</a>
 
-<a href="https://app.daily.dev/stonec0der">
-  <img src="https://github.com/stoneC0der/stonec0der/blob/master/devcard.svg" width="300" alt="Cedric Megnie's Dev Card" align="right"/>
-</a>
-</div>
-      
-###
-
-<div>
-  https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
-</div>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonec0der&hide=blade,css&layout=compact&theme=dark" />
-</a>
-
-###
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<!-- 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=stonec0der)
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=stonec0der&theme=gruvbox">
+</div>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/stonec0der/Python) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=stonec0der&count_private=true&show_icons=true&theme=dark" />
+  </a>
+      
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonec0der&hide=blade,css&layout=compact&theme=dark" />
+  </a>
 
-###
-
-- ⚡ Fun fact: man never sleep 🥱.
-<!--
-**stoneC0der/stonec0der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on this README profile && portfolio website
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on have not decided yet 😅.
-- 🤔 I’m looking for help with well nothing yet 😎.
-- 💬 Ask me about ⛈
-- 📫 How to reach me: right here not a fan of social medias, I non-existant over there but hey drop by macrumors @dumiku
-- 😄 Pronouns: stonec0der, seed CM -> (Cypher Marley) ✌🏾
-- ⚡ Fun fact: man never sleep 🥱.
--->
+  <a href="https://app.daily.dev/stonec0der">
+    <img src="https://github.com/stoneC0der/stonec0der/blob/master/devcard.svg" width="300" alt="Cedric Megnie's Dev Card" align="left"/>
+  </a>
+  
+![Jokes Card](https://readme-jokes.vercel.app/api)<br />
+⚡ Fun fact: man never sleep 🥱.
