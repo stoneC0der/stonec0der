@@ -88,7 +88,7 @@
 </p>
 
 <a href="https://app.daily.dev/stonec0der">
-  <img src="https://github.com/stoneC0der/stonec0der/blob/master/devcard.svg" width="400" alt="Cedric Megnie's Dev Card" align="left"/>
+  <img src="https://github.com/stoneC0der/stonec0der/blob/master/devcard.svg" width="300" alt="Cedric Megnie's Dev Card" align="left"/>
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stonec0der&theme=gruvbox)](https://git.io/streak-stats)
