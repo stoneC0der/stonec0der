@@ -10,12 +10,13 @@
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stonec0der&theme=gruvbox)](https://git.io/streak-stats)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- HTML
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->
 <!-- <div>
   <img width="100%" height="500px" src="https://github.com/stoneC0der/stonec0der/assets/11365636/b8d7162b-c9c8-43ad-8a2c-6889fe9570f4" algin="right">
 </div> -->
 <p align="let">
-  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=stonec0der&theme=gruvbox">
+  <img width="68%" src="https://github-profile-trophy.vercel.app/?username=stonec0der&theme=gruvbox">
 </p>
 
 [![stonec0der's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stonec0der&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
